@@ -15,7 +15,7 @@ public:
     void addStudent()
     {
        
-        cout<<"-------------------WELCOM TO OUR SCHOOL-----------------"<<endl;
+        cout<<"-------------------WELCOME TO OUR SCHOOL-----------------"<<endl;
         cout<<"Student admission form "<<endl;
         cout << "Enter your name" << endl;
         string name;
