@@ -12,7 +12,7 @@ public:
     }
     void new_joining()
     {
-        cout << "-------------------WELCOM TO OUR SCHOOL-----------------" << endl;
+        cout << "-------------------WELCOME TO OUR SCHOOL-----------------" << endl;
         cout << "Staff joining form " << endl;
         string name;
         cout << "Enter your name" << endl;
