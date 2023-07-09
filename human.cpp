@@ -10,17 +10,3 @@ public:
 };
 
 
-
-
-
-// int main()
-// {
-//     AdmissionSystem admission;
-//     admission.addStudent();
-//     admission.displayStudents();
-//     admission.edit_details();
-//     admission.displayStudents();
-
-
-//     return 0;
-// }
